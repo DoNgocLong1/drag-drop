@@ -6,7 +6,7 @@ import Popup from './Popup/Popup';
 function App() {
   return (
     <>
-      {/* <DropDrag/> */}
+      <DropDrag/>
       <Popup/>
     </>
   );
